@@ -36,7 +36,7 @@ A powerful and intuitive desktop GUI application for managing files and folders 
 ---
 ## 📸 Screenshots:
 
-![App Screenshot](images/screenshot.png)
+![App Screenshot](images/Screenshot.png)
 
 ---
 
@@ -64,3 +64,9 @@ venv\Scripts\activate # For MAC: source venv/bin/activate
 python app.py
 ```
 ---
+
+## 👨‍💻 Author
+Developed By Pramit Acharjya
+---
+## 🪪 License
+MIT License — free to use, modify, and distribute.

@@ -34,6 +34,11 @@ A powerful and intuitive desktop GUI application for managing files and folders 
 | subprocess         | Open selected files/folders natively             |
 
 ---
+## 📸 Screenshots:
+
+![App Screenshot](images/screenshot.png)
+
+---
 
 ## 📦 Installation
 
@@ -53,3 +58,9 @@ venv\Scripts\activate # For MAC: source venv/bin/activate
 - Install the required packages:
   ```bash
   pip install -r requirements.txt
+  
+### 3. Run the App
+```bash
+python app.py
+```
+---
